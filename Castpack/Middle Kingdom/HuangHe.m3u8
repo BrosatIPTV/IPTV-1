@@ -744,13 +744,13 @@ http://123.30.146.182:8080/212/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Catchon1.kr.png" group-title="한국",Catch On 1
 http://23.237.112.138:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="한국",Disney 한국
-http://123.30.146.182:8080/2301/video.m3u8
+http://123.30.146.182:8080/2301/video.m3u8*
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="한국",Disney Jr 한국
-http://123.30.146.182:8080/266/video.m3u8
+http://123.30.146.182:8080/266/video.m3u8*
 #EXTINF:-1 tvg-logo="https://cinedigm.com/wp-content/uploads/2018/12/hallypop-logo-300x117.png" group-title="한국",HallyPOP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/FishingTV.kr.png" group-title="한국",Fishing TV
-http://123.30.146.182:8080/215/video.m3u8
+http://123.30.146.182:8080/215/video.m3u8*
 #EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/TV_CHOSUN@2x.png" group-title="한국",조선 TV
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBN.kr.png" group-title="한국",MBN
